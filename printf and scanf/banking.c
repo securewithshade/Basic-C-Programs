@@ -1,3 +1,15 @@
+/*Wap for calculating interest and service charge for banking purpose.
+  
+  char kind of datatype used to store cheracters.
+  gets is similar to scanf used to read cheracters.
+
+    Algorithm
+    prompt for and read customer name, account number, average balance, number of transistions.
+    calculate interest = averageBalance*0.06
+    calculate service charge = number of transistion*0.50
+    print name, interest, service charge 
+*/
+
 #include <stdio.h>
 #include <conio.h>
 void main()
@@ -20,3 +32,5 @@ void main()
     printf("Service charge : INR %3.2f",service);
     getch();
 }
+// In char[30] 30 signifies the cheracter length. It can store upto 29 cheracters(0-29). 
+// /n is used to insert a line .

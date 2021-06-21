@@ -5,7 +5,9 @@
    print average
 
 Field width as the name suggests is the width or space which needs to be given for that particular display line and 
-it is specified using numbers. %3.1f signifies field width is 3 and upto 1 decimal. */
+it is specified using numbers. %3.1f signifies field width is 3 and upto 1 decimal.
+    
+    scanf("formatSpecifier,&variableName"); */
 
 #include <stdio.h> 
 #include <conio.h> 
@@ -20,4 +22,4 @@ void main()
     getch(); 
 }
 //scanf function is used to read the data from the screen .
-//%d are the frmat specifiers that reserves the memomory for the variables. eg. %d for integer (2 bit), %f for float (4 bit).
+//%d are the frmat specifiers that reserves the memomory for the variables. eg. %d for integer (2 byte), %f for float (4 byte).

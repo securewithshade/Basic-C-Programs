@@ -1,6 +1,14 @@
 //Wap to print hello world. 
 
 // In the following program we will print "Hello World". 
+/* Syntex 
+   #include <filename>
+   functionName main()
+   {
+     print("Message you want to print on screen");
+     getch();
+   }
+ */  
 #include <stdio.h>
 #include <conio.h>
 void main() 
