@@ -1,0 +1,16 @@
+*This file includes History and System Requirements of C.*
+
+History
+
+C is a general-purpose, procedural computer programming language that supports structured programming, lexical variable scope, with a static type system. The programming language C was originally developed at Bell Labs by Dennis Ritchie between 1972 and 1973 to construct utilities running on Unix. It has become one of the most widely used programming languages, with C compilers from various vendors available for most of the existing computer architectures and operating systems. C has been standardized by the ANSI since 1989 (ANSI C) and by the International Organization for Standardization (ISO). The C language exhibits some cheracterstics like a small fixed number of cheracterstics, arithmetic/bitwise/logic operators, control flow primitives (if/else, while, do while, for and switch), functions, userdefined data types, low access to memory etc. Many other languages like C++, PHP, Perl, Python, Ruby etc got the words directly and indirectly from C.
+ 
+Requirements
+
+We need a C Compiler* and a Text editor basically to run a C program or to create a new one. The other options are IDE* like VS Code, VIM, Jupiter, Anaconda etc, or software like Turbo C++. 
+
+
+*Compiler : A compiler is a special program that processes statements written in a particular programming language and turns them into machine language or "code" that a computer's processor uses.
+
+
+*IDE : It stands for integrated development environment is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools and a debugger.
+
