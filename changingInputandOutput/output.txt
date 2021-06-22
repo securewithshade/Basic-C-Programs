@@ -1,0 +1,3 @@
+3 numbers were entered
+The sum is 26
+The average is 8.67
