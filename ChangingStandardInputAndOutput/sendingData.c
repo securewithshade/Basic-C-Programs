@@ -1,3 +1,5 @@
+// Wap to recieve and send ,input and output to some other file.
+// Go through readingData.c file better understending. 
 #include <stdio.h> 
 #include <conio.h> 
 void main()
